@@ -1,0 +1,1 @@
+This is the Routed Anecdotes assignments from the Full Stack Open coursework
